@@ -2699,3 +2699,9 @@ David's Part
 	border: 1px solid black;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+.center{
+	left:50px;
+	margin-left: 220px;
+	padding-bottom: 50px;
+}
